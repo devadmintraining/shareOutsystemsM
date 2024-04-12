@@ -1,0 +1,22 @@
+{
+  "name": "ossharecommon",
+  "version": "1.0.0",
+  "description": "Share plugin on any content",
+  "cordova": {
+    "id": "cordova.plugins.OsShareCommon",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devadmintraining/shareOutsystemsM.git"
+  },
+  "author": "Pushpendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devadmintraining/shareOutsystemsM/issues"
+  },
+  "homepage": "https://github.com/devadmintraining/shareOutsystemsM#readme"
+}
